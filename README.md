@@ -1,6 +1,6 @@
 # Sinh và Sửa lỗi Kiểm thử Python bằng Ngữ cảnh Mã nguồn và Phản hồi Thực thi
 
-Mã nguồn thực nghiệm và công cụ tái lập kết quả phục vụ Tiểu luận môn học Công nghệ Phần mềm Tiên tiến.
+Mã nguồn thực nghiệm và công cụ tái lập kết quả phục vụ Đề tài môn học Công nghệ Phần mềm Tiên tiến.
 
 ## 1. Giới thiệu tổng quan
 
@@ -16,9 +16,7 @@ Kho lưu trữ này cung cấp triển khai chuẩn hóa của hệ thống sinh
 │   ├── curated_benchmark/      # Dữ liệu 21 đối tượng chuẩn hóa và 187 đột biến AST
 │   └── large_scale_3870/       # Dữ liệu 3.870 lượt thực thi trên 21 dự án
 ├── reports/
-│   ├── Tieu_Luan_CNPMTT_Test4Py_Hoan_Chinh.docx
-│   ├── Tieu_Luan_CNPMTT_Test4Py_Hoan_Chinh.pdf
-│   └── figures/                # Biểu đồ và hình ảnh dùng trong bài báo cáo
+│   └── figures/                # Biểu đồ và hình ảnh minh họa kết quả nghiên cứu
 ├── scripts/
 │   ├── demo.py                 # Kịch bản chạy thử nghiệm quy trình sinh và sửa lỗi
 │   └── reproduce_paper_metrics.py  # Kịch bản tái lập toàn bộ bảng số liệu trong tiểu luận
