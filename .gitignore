@@ -1,0 +1,24 @@
+# Python bytecode & environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+.venv/
+env/
+venv/
+
+# Pytest & Coverage
+.pytest_cache/
+.coverage
+coverage.json
+coverage_export/
+htmlcov/
+pytest_report.json
+
+# Build & OS
+dist/
+build/
+*.egg-info/
+.DS_Store
+*.tmp
